@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Edge2">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.417" />
+  </Class>
+  <Class Name="Node2">
+    <Position X="5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.245" />
+  </Class>
+  <Class Name="ObjectEdge">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAACAAAAAAAAAAAAAAAABAAAAEAAAAAACAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.177" />
+  </Class>
+  <Class Name="ObjectNode">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAGEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.947" />
+  </Class>
+  <Class Name="Straight2">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAqAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="INode" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEdge">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IStraight">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IUnityTransform">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IAstarNode">
+    <Position X="2.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lib.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
